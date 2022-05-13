@@ -1,0 +1,8 @@
+Title: Title (What, Where, When)
+Summary: bug descriptiob
+STR: steps to reproduce
+ER: expected result
+R: result
+Environment: OS, Browser
+Attachment: screen
+Severity: Critical
